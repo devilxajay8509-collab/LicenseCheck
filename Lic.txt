@@ -1,1 +1,15 @@
-lic
+[
+  {
+    "Device Id": "ef9758fbae35b103",
+    "username": "foxcam",
+    "password": "1234",
+    "expiry": "2029-2-22" // 1hr trial UNLIMITED KEY 
+  },
+  {
+    "Device Id": "3c9575cb7e9bb994",
+    "username": "mm",
+    "password": "1234",
+    "expiry": "2026-3-23" // 1month  UNLIMITED KEY 
+  }
+
+]
